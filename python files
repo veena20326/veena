@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print["helloo"]
+=======
+print['hello']
+>>>>>>> e13e1c9d9f0eaac2336f354771172c0753d415b1
